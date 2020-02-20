@@ -1,3 +1,8 @@
+# VS Code ignores
+.vscode/
+
+# Python stuff
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
